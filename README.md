@@ -1,5 +1,6 @@
 # tg-FRED-T5-summarizer-bot
 
+Спасибо за отличную модель суммаризации:
 ```
 @misc{akhmetgareeva2024summary,
       title={Towards Russian Summarization: can architecture solve data limitations problems?}, 
